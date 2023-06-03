@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #download node and npm
-apt install nodejs
+sudo apt install nodejs
 
 #create our working directory if it doesnt exist
 DIR="/home/ubuntu/express-app"
